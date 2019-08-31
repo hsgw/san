@@ -1,0 +1,7 @@
+﻿pcb/gerber
+pcb/panelize
+*.bak
+*.ai
+pcb/3keys-cache.lib
+*.kicad_pcb-bak
+pcb/3keys.cmp

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SMKJP)(type KiCad)(uri C:/Users/USER/Documents/keyboard/SMKJP_components/SMKJP.pretty)(options "")(descr ""))
+  (lib (name san)(type KiCad)(uri ${KIPRJMOD}/san.pretty)(options "")(descr ""))
+)
